@@ -137,8 +137,8 @@
           ],
           "dataset" : {
             "type" : "analyticsDataset",
-            "label" : "ApexUnexpectedExceptionStageCopy",
-            "name" : "ApexUnexpectedExceptionStageCopy"
+            "label" : "ApexUnexpectedExceptionProcessed",
+            "name" : "ApexUnexpectedExceptionProcessed"
           },
           "sampleDetails" : {
             "type" : "TopN",
@@ -2053,7 +2053,7 @@
           }
         },
         "LOAD_DATASET5" : {
-          "label" : "ApexUnexpectedExceptionStageCopy",
+          "label" : "ApexUnexpectedExceptionProcessed",
           "type" : "LOAD_DATASET",
           "top" : 532.3,
           "left" : 251.7,
