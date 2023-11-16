@@ -46,6 +46,7 @@ Easy Option: [CRM Analytics Templated App](https://trailhead.salesforce.com/cont
       * Report
       * URI
       * VisualforceRequest
+* Ensure that the Event Monitoring dataflow is scheduled to run at some frequency in order for the Developer Carbon Dashboard to show updated data.
 
 Harder Option: [Set up a custom process to push Event Logs into CRM Analytics](https://www.salesforcehacker.com/2015/01/simple-script-for-loading-event.html)
 
